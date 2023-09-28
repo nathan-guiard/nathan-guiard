@@ -1,4 +1,4 @@
-Bonjour je suis Nathan Guiard, etudiant et tuteur a l'école 42.
+Bonjour je suis Nathan Guiard, etudiant, tuteur et employe a l'école 42.
 
 Pour l'instant au tronc commun, je souhaite me specialiser dans la cybersecurite.
 
