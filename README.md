@@ -1,7 +1,7 @@
-Nathan
+Nathan <br />
 
-Student 42 Paris
-Tech Staff 42 Berlin
+Student 42 Paris <br />
+Tech Staff 42 Berlin <br />
 
-Excellence
+Excellence <br />
 \033
