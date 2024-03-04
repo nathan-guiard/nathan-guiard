@@ -1,6 +1,6 @@
 Nathan <br />
 
-Student 42 Paris <br />
+Student at 42 Paris <br />
 
 Excellence <br />
 \033
